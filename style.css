@@ -1,0 +1,105 @@
+body {
+	margin-top: 56px;
+}
+
+
+#main {
+}
+
+#chooser {
+	background-color: #fec60d;
+    /*display: flex; */
+    align-items: center;
+    color: #ffffff;
+}
+
+#chooser-wrapper {
+	padding-top: 25%;
+	padding-bottom: 25%;
+}
+
+#preference {
+	background-color: #fec60d;
+	color: #ffffff;
+    /*display: flex; */
+    align-items: center;
+}
+
+#preference-wrapper {
+	padding-top: 25%;
+	padding-bottom: 25%;
+}
+
+#cuisines {
+    /*display: flex;*/
+	background-color: #fec60d;
+	color: #ffffff;
+    align-items: center;
+}
+
+#cuisine-wrapper {
+	padding-top: 25%;
+	padding-bottom: 25%;
+}
+
+#cuisine input {
+    font-size: 2em;
+}
+
+#result {
+	background-color: #fec60d;
+	color: #ffffff;
+    align-items: center;
+}
+#result-wrapper {
+	padding-top: 25%;
+	padding-bottom: 25%;
+}
+
+#result-text {
+    font-size: 2em;
+    font-weight: bold;
+    color: #000000;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.center_button {
+	text-align: center;
+}
+
+.submit {
+    text-align: center;
+    background-color: #f70000;
+    color: #ffffff;
+    font-size: 2em;
+}
+
+#hungrybutton {
+	text-align: center;
+	background-color: #f70000;
+	color: #ffffff;
+	margin-top: 2em;
+    font-size: 2em;
+}
+
+#logo img {
+	margin: 0 auto !important;
+	padding-top: 20px;
+}
+
+#brand-header {
+    background-color: #fec60d;
+    text-align: center;
+    padding-bottom: 2em;
+    margin: 0 -15px 2em;
+    radius: 0;
+    border-radius: 0;
+}
+
+#brand-header > img {
+    padding: 3em;
+}
